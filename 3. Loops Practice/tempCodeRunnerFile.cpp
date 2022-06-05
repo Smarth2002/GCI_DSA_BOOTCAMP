@@ -1,0 +1,1 @@
+pow(digit,digits)
